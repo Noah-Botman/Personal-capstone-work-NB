@@ -55,17 +55,7 @@ int main()
             // Do Nothing
         }
     }
-/*
- 
-   TRISB = 0b //Port b output
-  while(1)
-  {
-    RB0 = 1;  // LED ON
-    //delay_ms(1000); // 1 Second Delay
-    RB0 = 0;  // LED OFF
-    //delay_ms(1000); // 1 Second Delay
-  }
- * 
- */
+
+    
   return 0;
 }
